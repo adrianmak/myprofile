@@ -1,0 +1,13 @@
+; This is a clone of d7 core default profile Minimal. It is used for my own learning purpose on Drupal
+name = Myprofile
+description = Start with only a few modules enabled.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = dblog
+
+
+version = "7.14"
+project = "drupal"
+
+
